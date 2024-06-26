@@ -2,6 +2,9 @@
 
 This is a sample application intentionally built to be imperfect.
 
+<img src="https://github.com/shaky-ground/earthquake-ios/assets/5690240/870efa58-a2a9-47a4-b429-c4106c78adf4" width=50% height=50%>
+
+
 # TODOs
 ## Details screen
 ### Implement a new screen that will display:
