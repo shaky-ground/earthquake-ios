@@ -4,7 +4,7 @@ This is a sample application intentionally built to be imperfect.
 
 # TODOs
 ## Details screen
-###Implement a new screen that will display:
+### Implement a new screen that will display:
 - title
 - earthquake's location on the map
 - magnitude
