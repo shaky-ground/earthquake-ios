@@ -16,6 +16,6 @@ This is a sample application intentionally built to be imperfect.
 
 ## Available endpoints:
 * https://barfooz.net/earthquakes
-* https://barfooz.net/earthquakes/<id>
+* https://barfooz.net/earthquakes/id
 * https://barfooz.net/earthquakes?continent=europe
 * https://barfooz.net/continents
